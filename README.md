@@ -1,4 +1,4 @@
-# World_layoffs.layoffs_EDA_Project
+# World_layoffs.layoffs_CLEANING_EDA_Project
 
  A comprehensive MySQL script to clean, standardize, and prepare the world_layoffs.layoffs dataset for exploratory data analysis (EDA).
 This project transforms raw, redundant layoff records into a reliable, analysis-ready table by:
